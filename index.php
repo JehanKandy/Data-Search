@@ -5,6 +5,10 @@
 <div class="home-content">
     <div class="container">
         <div class="title">All Data</div>
+        <hr>
+        <div class="body">
+            <a href="add_products.php"><button class="btn btn-success">+ Add New</button></a>
+        </div>
     </div>
 </div>
 
