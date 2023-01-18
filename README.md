@@ -15,43 +15,6 @@
   - css/style.css
   - lib/layouts/main_footer.php
   
-  <h4> 14 January 2023</h4>
-    
-  - lib/layouts/nav_bar.php
-  - lib/function/config.php
-  - lib/function/function.php
-  - lib/layouts/login_nav.php
-  - lib/views/login.php
-  - lib/views/reg.php
-  - lib/layouts/footer_page.php
-  - index.php (UPDATE)
-  - css/style.css (UPDATE)
-  - js/script.js (UPDATE)
-    
-  <h4> 15 January 2023</h4>
-  
-  - lib/views/waiting_user.php
-  - lib/views/logout.php
-  - lib/views/forget_pass.php
-  - lib/views/verify_otp.php
-  - lib/function/function.php (UPDATE)
-  - css/style.css (UPDATE)
-  - lib/views/login.php (UPDATE)
-  - js/script.js (UPDATE)
- 
-  <h4> 16 January 2023</h4>
-  
-  - docs/home_content.php
-  - index.php (UPDATE)
-  
-  <h4> 17 January 2023</h4>
-  
-  - lib/views/update_pass.php
-  - lib/views/verify_otp.php (UPDATE)
-  - js/script.js (UPDATE)
-  - lib/function/function.php (UPDATE)
-  - css/style.css (UPDATE)
-
 
 <h1>Developers</h1>
   <h4>JehanKandy</h4>
