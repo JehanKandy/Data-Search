@@ -14,6 +14,7 @@
   - js/script.js
   - css/style.css
   - lib/layouts/nav.php
+  - lib/function/function.php
 
   
 
