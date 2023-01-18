@@ -1,7 +1,7 @@
 <h1 align="center">Data Searching</h1>
 <h3 align="center">Using PHP and Mysql</h3>
 
-<p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/cc25b4ac-d6f6-463d-b423-cc1278cfcf24.svg"></p>
+<p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/6bf295d2-9600-4003-8235-0beb77ea87b7.svg"></p>
 
 
 # Development Timeline
