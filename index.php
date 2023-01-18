@@ -4,7 +4,7 @@
 
 <div class="home-content">
     <div class="container">
-        hi
+        <div class="title">All Data</div>
     </div>
 </div>
 
