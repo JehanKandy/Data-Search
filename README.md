@@ -13,7 +13,7 @@
   - lib/layouts/header.php
   - js/script.js
   - css/style.css
-  - lib/layouts/main_footer.php
+
   
 
 <h1>Developers</h1>
