@@ -14,8 +14,10 @@
   - js/script.js
   - css/style.css
   - lib/layouts/nav.php
-  - lib/function/function.php
   - lib/function/config.php
+  - lib/function/function.php
+
+
 
   
 
