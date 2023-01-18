@@ -11,10 +11,10 @@
 
             <div class="left-search">
                 <form action="<?php $_SERVER['PHP_SELF']?>" method="POST" name="search_form" onsubmit="return validate_search();">
-                    <label>
+                    <div class="search-form">
                         <input type="text" class="form-input" id="searchValue" placeholder="Search">
                         <input type="submit" value="Search" class="btn btn-primary search-btn" name="searchBtn">
-                    </label>
+                    </div>
                 </form>
             </div>
         
