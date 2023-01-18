@@ -9,7 +9,11 @@
         <div class="body">
             <a href="add_products.php"><button class="btn btn-success">+ Add New</button></a>
 
-            <div class="left-search">hi</div>
+            <div class="left-search">
+                <form action="<?php $_SERVER['PHP_SELF']?>" method="POST" name="search_form" onsubmit="return validate_search();">
+            
+                </form>
+            </div>
         
         </div>
     </div>
