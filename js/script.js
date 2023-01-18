@@ -3,6 +3,8 @@ function validate_search(){
     
     if(searchIn == "" || searchIn == null){
         document.getElementById('searchValue').style.borderColor = "red";
-        document.getElementById('inputerror').innerHTML = "Empty Input";
+        document.getElementById('inputerror').innerHTML = "Empty Input..!";
+        document.getElementById('inputerror').style.color = "red";
+        return false;
     }
 }
