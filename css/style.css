@@ -21,3 +21,7 @@
 .home-content{
     margin: 70px 0 70px 0;
 }
+.home-content .title{
+    text-align: center;
+    font-size: 30px;
+}
