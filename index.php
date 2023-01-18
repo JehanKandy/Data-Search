@@ -13,7 +13,7 @@
                 <form action="<?php $_SERVER['PHP_SELF']?>" method="POST" name="search_form" onsubmit="return validate_search();">
                     <label>
                         <input type="text" class="form-input" id="searchValue" placeholder="Search">
-                        <input type="submit" value="Search" class="btn btn-primary search-btn">
+                        <input type="submit" value="Search" class="btn btn-primary search-btn" name="searchBtn">
                     </label>
                 </form>
             </div>
