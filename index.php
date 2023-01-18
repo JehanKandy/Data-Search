@@ -8,6 +8,9 @@
         <hr>
         <div class="body">
             <a href="add_products.php"><button class="btn btn-success">+ Add New</button></a>
+
+            <div class="left-search">hi</div>
+        
         </div>
     </div>
 </div>
