@@ -1,6 +1,10 @@
-<link rel="stylesheet" href="css/style.css">
-<?php include("lib/layouts/header.php"); ?>
-<?php include("lib/layouts/nav.php"); ?>
-<br>
-<?php include("lib/layouts/footer.php")?>
-<script src="js/script.js"></script>
+<link rel="stylesheet" href="../../css/style.css">
+<nav>
+    <div class="nav-content">
+        <div class="container">
+            Data Searching
+        </div>
+    </div>
+</nav>
+
+<script src="../../js/script.js"></script>
