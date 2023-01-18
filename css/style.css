@@ -31,6 +31,11 @@
     border: 1px solid rgb(206, 206, 206);
     padding: 10px;
 }
-.btn-search{
-    border-radius: 50px;
+.search-btn{
+    height: 40px;
+    margin-top: -5px;
+}
+.search-form{
+    margin-left: 75%;
+    margin-top: -35px;
 }
